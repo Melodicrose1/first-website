@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styleone.css">
+<title>WenDecor</title>
+</head>
+<body>
+  
+  
+    <nav class="main-nav">
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Articles</a></li>
+        <li><a href="#">Purchase</a></li>
+        <li><a href="#">Contact Us</a></li>
+     </ul>
+   </nav>
+   <header class="main-header">
+  <!--<h3>The Most Comprehenisive Wedding Resource</h3>-->
+  <h1>WenDecor</h1>
+    </header>
+ 
+   
+    <h2>Our Services</h2>
+    <p class="main-content">
+    WenDecor is Montreal's premiere wedding event planning company.
+    Planning your wedding can be stressful. <br> Hopefully we can take some
+    of the difficulty.
+  </p>
+  <div>
+    <a href="#">Read More</a>
+  </div>  
+   
+  <h2>Getting Engaged</h2>
+    <p>So you have just gotten engaged. You’re excited about getting married to the most wonderful person, in your life.<br>
+You are both now ready to plan your wedding.
+But now, you think OH – OH!!! Where is the money, to do all of this?</p>
+
+  <p>Don’t worry, you are not alone. Many other couples have falleninto the same category.<br> One of the greatest problem or asset in
+wedding planning is money. Whether you have $200 or $15,000,<br>
+could make a huge difference, in the process. 
+    
+  </p>
+  <div>
+  <a href="#">Read More</a>
+  </div>
+  
+  
+</body>
+  <hr>
+<footer>
+  
+  </footer>  
+</html>
